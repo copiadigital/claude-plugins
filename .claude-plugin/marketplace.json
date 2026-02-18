@@ -1,0 +1,18 @@
+{
+  "name": "copiadigital-plugins",
+  "owner": {
+    "name": "Copia Digital"
+  },
+  "plugins": [
+    {
+      "name": "practical-typography",
+      "source": "./plugins/practical-typography",
+      "description": "Typography guidance distilled from Butterick's Practical Typography"
+    },
+    {
+      "name": "llm-seo",
+      "source": "./plugins/llm-seo",
+      "description": "Guidance for optimising web content for LLM and AI search visibility"
+    }
+  ]
+}

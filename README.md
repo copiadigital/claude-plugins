@@ -14,7 +14,9 @@ A collection of Claude Code skills and plugins maintained by [Copia Digital](htt
 Register this repo as a marketplace, then install individual plugins:
 
 ```
-/install-marketplace github.com/copiadigital/claude-plugins
-/install practical-typography
-/install llm-seo
+/plugin marketplace add copiadigital/claude-plugins
+/plugin install practical-typography@copiadigital-plugins
+/plugin install llm-seo@copiadigital-plugins
 ```
+
+Or use `/plugin` and browse the **Discover** tab to install interactively.
