@@ -1,0 +1,5 @@
+{
+  "name": "svg-converter",
+  "version": "0.1.0",
+  "description": "Convert raster images (PNG, JPG, WebP) to SVG using vtracer vectorisation"
+}

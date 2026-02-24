@@ -13,6 +13,11 @@
       "name": "llm-seo",
       "source": "./plugins/llm-seo",
       "description": "Guidance for optimising web content for LLM and AI search visibility"
+    },
+    {
+      "name": "svg-converter",
+      "source": "./plugins/svg-converter",
+      "description": "Convert raster images (PNG, JPG, WebP) to SVG using vtracer vectorisation"
     }
   ]
 }
